@@ -4,3 +4,4 @@ Jinja2
 MarkupSafe
 itsdangerous
 werkzeug
+gunicorn==19.7.1
